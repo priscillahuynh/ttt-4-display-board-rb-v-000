@@ -8,3 +8,4 @@ def display_board(board)
   puts "#{lines}"
   puts "#{board[6]}"|"#{board[7]}"|"#{board[8]}"
 end
+def display_board(board)

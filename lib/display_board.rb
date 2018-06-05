@@ -10,4 +10,3 @@ def display_board(board)
   puts "#{board[7]}, #{separator}, #{board[8]}, #{separator}, #{board[9]}"
 end
 display_board(board)
-
